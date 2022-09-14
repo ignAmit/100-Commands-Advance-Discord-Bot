@@ -1,0 +1,8 @@
+exports.PREFIX = "BOT_PREFIX";
+
+exports.OWNER_ID = "YOUR_ID"
+
+exports.TOKEN = "BOT_TOKEN"
+
+// IF YOU CHANGE THE ID CHANGE IT IN OWNER.JSON ALSO.
+
